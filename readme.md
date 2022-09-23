@@ -1,14 +1,14 @@
-# Hi, I am Sharif, a frontend software engineer 👨‍💻 with 2+ years of experience🚀
+
+### Hi, I am Sharif, a frontend software engineer 👨‍💻 with 2+ years of experience🚀
 
 - My passion for building frontend applications made me fall in love with design
 - I love working in an environment where design and engineering meet each other.
+- I have worked with multiple libraries and frameworks but currently am working with React,Typescript, and node js.
 - 🌱 I’m currently studying google UI/UX design course.
 
-## Here are few technologies I haved worked with
 
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+
+
 
 ![Sharibeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharibeast&theme=dark&show_icons=true)
 
