@@ -3,7 +3,8 @@
 
 - My passion for building frontend applications made me fall in love with design.
 - I love working in an environment where design and engineering meet each other.
-- I have worked with multiple libraries and frameworks but currently am working with React,Typescript, and node js.
+- 🤔 I’m looking for remote full time job but also am willing to relocate
+- 💬 Ask me about React, Javascript, node and Typescript.
 - 🌱 I’m currently studying google UI/UX design course.
 - How to reach me: [sharifally0903@gmail.com](mailto:sharifally0903@gmail.com)
 
