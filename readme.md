@@ -4,7 +4,11 @@
 - I love working in an environment where design and engineering meet each other.
 
 ### Here are few technologies I haved worked with
-- <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+ <div>
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+ </div>
 
 
 ![Sharibeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharibeast&theme=dark&show_icons=true)
