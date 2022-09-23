@@ -1,7 +1,8 @@
 <!-- **Hey, I'm Sharif!** -->
 ### I am Sharif, a frontend software engineer 👨‍💻 with 2+ years of experience🚀
-- ##### <div >My passion for building frontend applications made me fall in love with design</div> 
+- My passion for building frontend applications made me fall in love with design
 - I love working in an environment where design and engineering meet each other.
+- 🌱 I’m currently studying google UI/UX design course.
 
 ### Here are few technologies I haved worked with
  <div>
