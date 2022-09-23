@@ -11,7 +11,7 @@
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharibeast&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="sharibeast's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharibeast&layout=compact&theme=dark&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharibeast&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="sharibeast's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharibeast&layout=compact&theme=dark&hide_border=true"&hide=html,handlebars,css,pug,sass /> |
 | ------------- | ------------- |
 
 ![Sharibeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharibeast&theme=dark&show_icons=true)
