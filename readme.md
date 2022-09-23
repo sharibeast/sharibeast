@@ -3,6 +3,9 @@
 - ### <div >My passion for building frontend applications made me fall in love with design</div> 
 - I love working in an environment where design and engineering meet each other.
 
+### Here are few technologies I haved worked with
+- <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+
 
 ![Sharibeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharibeast&theme=dark&show_icons=true)
 
