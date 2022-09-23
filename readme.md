@@ -8,12 +8,6 @@
 - How to reach me: [sharifally0903@gmail.com](mailto:sharifally0903@gmail.com)
 
 
-## Let's Connect
-
-
-
-
-
 
 ![Sharibeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharibeast&theme=dark&show_icons=true)
 
