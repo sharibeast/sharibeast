@@ -1,7 +1,6 @@
-# Sharif A.
+# Sharif
 
 Hi 👋, I am Sharif, a frontend software engineer 👨‍💻
-
 - My passion for building frontend applications made me fall in love with design.
 - I love working in an environment where design and engineering meet each other.
 - 💬 Ask me about React, Javascript, node and Typescript.
