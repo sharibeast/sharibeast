@@ -2,7 +2,7 @@
 
 I love building stuffs
 <!---
-Hi 👋, I am Sharif, a frontend software engineer 👨‍💻
+Haaai 👋, I am Sharif, a frontend software engineer 👨‍💻
 - My passion for building frontend applications made me fall in love with design.
 - 💬 Ask me about React, Javascript, node, and Typescript.
 - How to reach me: [sharifally0903@gmail.com](mailto:sharifally0903@gmail.com)
