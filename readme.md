@@ -1,6 +1,6 @@
-# Sharif
+# Hello 👋, My name is Sharif
 
-I love building stuffs
+I love building stuffs using my computer
 <!---
 Haaai 👋, I am Sharif, a frontend software engineer 👨‍💻
 - My passion for building frontend applications made me fall in love with design.
