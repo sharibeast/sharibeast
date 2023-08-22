@@ -1,4 +1,4 @@
-# Hello 👋, My name is Sharif
+## Hello 👋, My name is Sharif
 
 I love building stuffs using my computer
 <!---
